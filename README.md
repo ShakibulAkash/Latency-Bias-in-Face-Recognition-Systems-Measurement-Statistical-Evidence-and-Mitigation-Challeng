@@ -76,3 +76,38 @@ The evaluation pipeline consists of:
 
 ## 📁 Repository Contents
 
+---
+
+## 📦 Dataset
+
+- **MeGlass Dataset**
+- Image-only dataset designed to simulate eyeglass-induced visual complexity
+- No ground-truth sensitive labels, reflecting realistic deployment conditions
+
+Due to licensing and ethical constraints, the dataset is **not redistributed**.
+Please obtain it directly from Kaggle.
+
+---
+
+## ⚖️ Responsible AI Considerations
+
+- No demographic labels used
+- Attribute inference performed with confidence filtering
+- Latency treated as a **first-class fairness metric**
+- Evaluation aligned with real-world deployment constraints
+
+---
+
+## 📝 Citation
+
+If you use this work, please cite the paper:
+
+Latency Bias in Face Recognition Systems:  
+Measurement, Statistical Evidence, and Mitigation Challenges for Eyeglass Wearers
+
+---
+
+## ⚖️ License
+
+This project is released under the **MIT License**.
+
